@@ -13,16 +13,29 @@ with open("Puzzle.txt") as file:
 # print(floor_level)
 
 # Part 2
-floor_level = 0
-index = 0
+# floor_level = 0
+# index = 0
 
-for x in puzzle:
-    if x == "(":
+# for x in puzzle:
+#     if x == "(":
+#         floor_level += 1
+#     else :
+#         floor_level -= 1
+    
+#     index += 1
+#     if floor_level == -1:
+#         print(index)
+#         break
+
+# Part 2 Another Way
+floor_level = 0
+
+for index in range(len(puzzle)):
+    if puzzle[index] == "(":
         floor_level += 1
-    else :
+    else:
         floor_level -= 1
     
-    index += 1
     if floor_level == -1:
-        print(index)
+        print(index + 1)
         break
