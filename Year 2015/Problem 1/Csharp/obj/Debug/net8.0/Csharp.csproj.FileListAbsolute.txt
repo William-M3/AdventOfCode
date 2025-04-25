@@ -1,0 +1,15 @@
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/bin/Debug/net8.0/Csharp
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/bin/Debug/net8.0/Csharp.deps.json
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/bin/Debug/net8.0/Csharp.runtimeconfig.json
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/bin/Debug/net8.0/Csharp.dll
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/bin/Debug/net8.0/Csharp.pdb
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfoInputs.cache
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfo.cs
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.csproj.CoreCompileInputs.cache
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.sourcelink.json
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.dll
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/refint/Csharp.dll
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.pdb
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/Csharp.genruntimeconfig.cache
+/Users/williammurphy/Code/AdventOfCode/Year 2015/Problem 1/Csharp/obj/Debug/net8.0/ref/Csharp.dll
